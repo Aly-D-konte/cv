@@ -14,6 +14,9 @@ body
     align-items: center;
     min-height: 100vh;
 }
+a{
+    color: white
+}
 
 .container
 {
@@ -37,7 +40,6 @@ body
 }
 .profileText{
     position: relative;
-    display: flex;
     flex-direction: column;
     align-items: center;
     padding-bottom: 20px;
